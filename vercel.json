@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://google.com.hk/$1"
+      "destination": "https://github.com/$1"
     }
   ]
 }
